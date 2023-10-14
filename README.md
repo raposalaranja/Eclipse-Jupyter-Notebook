@@ -1,7 +1,7 @@
 # **Eclipse-Jupyter-Notebook**
 
-I went to https://www.spaceappschallenge.org/2023/challenges/eclipses-perspective-is-everything/ to read about the challenge.
-Space Apps 2023 - Eclipses: Perspective is Everything
+I went to https://www.spaceappschallenge.org/2023/challenges/eclipses-perspective-is-everything/ to read about the challenge 
+Space Apps 2023 - Eclipses: Perspective is Everything.
 
 **SUMMARY**
 
